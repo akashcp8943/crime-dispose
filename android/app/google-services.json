@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18899511322",
+    "project_id": "fir-test-843fa",
+    "storage_bucket": "fir-test-843fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18899511322:android:2a5906fa3ef624201b09a3",
+        "android_client_info": {
+          "package_name": "com.example.dmythra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhBX4iP2ny7HjKmSAefzubXdmnEU5bp6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
